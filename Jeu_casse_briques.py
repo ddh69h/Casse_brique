@@ -10,5 +10,5 @@ From tkinter import tk, canvas,
 fenetre = tk.Tk()
 fenetre.title("Casse Briques")
 
-keahjgkzeugi
+
 
