@@ -10,5 +10,7 @@ From tkinter import tk, canvas,
 fenetre = tk.Tk()
 fenetre.title("Casse Briques")
 
+canvas = tk.Canvas(fenetre, width=500, height=400, bg="white")
 
 
+bonjorur 
