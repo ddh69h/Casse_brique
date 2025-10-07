@@ -13,4 +13,4 @@ fenetre.title("Casse Briques")
 canvas = tk.Canvas(fenetre, width=500, height=400, bg="white")
 
 
-bonjorur 
+bonjou
